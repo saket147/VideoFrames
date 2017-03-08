@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_5c04d7031c2ad657829e7c42c672ffe904067ca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_895971e979b405c3c1bdaceab19672d14294ba5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_f90ff48c19a48fd1dc302e2d8eed6c6a397a0999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_8dfe8708c6e154d4f614f73d94f9915ba75f44e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_7b9f093b870c4b19cb479297fd9a3f1806a5ce7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_fc55a20f612ed0a9debd3ed3b040c19504ea9f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_3aea125db67914d6ab7ca4a5f1827efae3284a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_843f0736f2a08e91fca33ef52685ab81b24cb1a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_364aacc6602da6b0ca0c8ca5aaa7cf6f8fc1d572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_2f5214eb8a33a68f9a489eca697235b1a92972f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/socket/VideoFrames/app/build/intermediates/exploded-aar/com.github.wseemann/FFmpegMediaMetadataRetriever/1.0.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b70b6350ac88e7eeef91054f45f0739f395d7588">
+        <dex dex="/home/socket/VideoFrames/app/build/intermediates/pre-dexed/debug/com.github.wseemann-FFmpegMediaMetadataRetriever-1.0.14_346126256ac98f6106c67787175a8f32eea6d765.jar" />
+    </item>
+
+</items>
